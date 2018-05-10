@@ -14,5 +14,3 @@ function johnLennonFacts(facts){
   }
   return emptyArray
 }
-
-
