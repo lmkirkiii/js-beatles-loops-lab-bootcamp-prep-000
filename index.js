@@ -15,14 +15,4 @@ function johnLennonFacts(facts){
   return emptyArray
 }
 
-function iLoveTheBeatles(n){
-  var emptyArray = [];
-  var index = 0
-  do{
-    emptyArray.push("I love the Beatles");
-    index++;
-  }
-  while(n<15)
 
-  return emptyArray
-}
