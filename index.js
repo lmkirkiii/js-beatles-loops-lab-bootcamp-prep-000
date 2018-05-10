@@ -23,6 +23,6 @@ function iLoveTheBeatles(n){
     index++;
   }
   while(n<15)
-  
+
   return emptyArray
 }
